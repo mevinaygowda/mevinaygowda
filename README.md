@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mevinaygowda
+- 👀 I’m interested in Automation and upskilling to achive the desired goals
+- 🌱 I’m currently learning BDD Cucumber Framework
+- 💞️ I’m looking to collaborate on Learning enthusiasts 
